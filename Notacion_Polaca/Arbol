@@ -1,0 +1,7 @@
+digraph g{
+numasd300 [label="asd3"];
+num201 [label="2"];
+suma12 [label="+"];
+suma12 -> num201;
+suma12 -> numasd300;
+}
